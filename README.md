@@ -63,6 +63,7 @@ edit your zen.conf and add
 ```
 proxy=127.0.0.1:9050
 onlynet=tor
+addnode=x23j42up5lvgnwwd.onion
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
 addnode=ot35wzoyrnaurgz6.onion
@@ -112,6 +113,7 @@ Same as the Linux guide but edit the config at `%APPDATA%\Zen\zen.conf`.
 
 ### List of Tor nodes:
 ```
+addnode=x23j42up5lvgnwwd.onion
 addnode=arrdjplw5rtjpyqm.onion
 addnode=gowy6xruajuu2tln.onion
 addnode=ot35wzoyrnaurgz6.onion
